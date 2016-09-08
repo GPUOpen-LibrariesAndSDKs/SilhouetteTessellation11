@@ -1,5 +1,5 @@
 # AMD Tessellation Sample
-<img src="silhouettetessellation11/media/Thumbnail.png" width="480" height="280" />
+<img src="silhouettetessellation11/media/Thumbnail.png" width="480" height="284" />
 
 The SilhouetteTessellation11 DirectX 11 sample implements PN Triangles and Phong tessellation. It also shows how to optimize performance by using adaptive tessellation techniques.
 
