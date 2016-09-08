@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SilhouetteTessellation11", "SilhouetteTessellation11_2015.vcxproj", "{24C381F3-10E8-D073-3933-B60325B7CF91}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AMD_SDK", "..\..\AMD_SDK\build\AMD_SDK_2015.vcxproj", "{EBB939DC-98E4-49DF-B1F1-D2E80A11F60A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AMD_SDK_Minimal", "..\..\AMD_SDK\build\AMD_SDK_Minimal_2015.vcxproj", "{EBB939DC-98E4-49DF-B1F1-D2E80A11F60A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DXUT", "..\..\DXUT\Core\DXUT_2015.vcxproj", "{85344B7F-5AA0-4E12-A065-D1333D11F6CA}"
 EndProject
